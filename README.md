@@ -29,10 +29,4 @@ In addition to this, we will also be practising using inbuilt methods such as:
 
 And many more.
 
-If you liked this game please do Subscribe, Comment and Like - it will help me create more games in the future!
 
-I would love to see your finished game to please do tag me on YouTube, Twitter (@ania_kubow) or Instagram (@aniakubow) :)
-
-
-#minesweeper
-#javscript_game
